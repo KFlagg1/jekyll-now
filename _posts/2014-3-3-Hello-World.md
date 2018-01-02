@@ -14,3 +14,13 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 - test a/b
 - test 2
+
+
+---
+layout: post
+title: Classification Power of Complaint
+---
+
+This initial entry is to provide a preliminary overview of the a project that I had worked on which applied Data Science classification models.  For the project I used a data set of 311 Request logs found on  New York City's [NYC OpenData](https://opendata.cityofnewyork.us/) platform.
+
+311 is the city's non emergency 
